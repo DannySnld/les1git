@@ -4,4 +4,4 @@ print(f"Hallo {naam}")
 
 leeftijd = input("hoe oud bent u?\n")
 
-print(f"Dus, Danny jij bent {leeftijd} jaar oud...")
+print(f"Dus, {naam} jij bent {leeftijd} jaar oud...")
